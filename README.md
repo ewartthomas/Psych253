@@ -5,10 +5,13 @@ Lectures: TTh 11-12:15; Building 420-050
 Section: F 10:30-12:00; Building 420-417
 
 Teaching Staff (email@stanford.edu)
+
 TA: Stephanie Gagnon (sgagnon);
 Office Hours: Jordan 404, by appt
+
 TA: Daniel Hawthorne (djthorne);
 Office Hours: Jordan 330, by appt
+
 Instructor: Ewart Thomas (ethomas);
 Jordan 476; Phone: 725-2465; 
 Office Hours: TTh 10 am
