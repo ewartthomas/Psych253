@@ -6,13 +6,13 @@ Section: F 10:30-12:00; Building 420-417
 
 Instructors (email@stanford.edu)
 
-TA: Stephanie Gagnon (sgagnon)
+TA: Stephanie Gagnon (sgagnon);
 Office Hours: Jordan 404, by appt
 
-TA: Daniel Hawthorne (djthorne)
+TA: Daniel Hawthorne (djthorne);
 Office Hours: Jordan 330, by appt
 
-Instructor: Ewart Thomas (ethomas)
+Instructor: Ewart Thomas (ethomas);
 Jordan 476; Phone: 725-2465; 
 Office Hours: TTh 10 am
 
