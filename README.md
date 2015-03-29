@@ -13,8 +13,8 @@ TA: Daniel Hawthorne (djthorne)
 Office Hours: Jordan 330, by appt
 
 Instructor: Ewart Thomas (ethomas)
-Jordan 476, Phone: 725-2465
+Jordan 476; Phone: 725-2465; 
 Office Hours: TTh 10 am
 
-Overview
+Overview: 
 This course will review, as appropriate, the more familiar procedures covered in Psychology 252, namely, the general linear model (lm {stats} in R), the generalised linear model (glm {stats}), and linear mixed models (lme {nlme}, lmer {lme4}).  Also, we will consider less familiar applications of these R functions, and more ‘advanced’ procedures, such as, reliability, factor analysis, penalized regression, and structural equation modeling. 
